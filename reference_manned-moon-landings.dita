@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_lpx_rmr_lcc">
+    <title>List of manned moon landings</title>
+    <shortdesc>There have been six crewed moon landings, all part of NASA's Apollo program. </shortdesc>
+    <refbody>
+        <section id="section_k4b_54r_lcc">
+            <p>The missions and their landing dates are:</p>
+            <ul id="ul_e24_v4r_lcc">
+                <li><b>Apollo 11</b> - July 20, 1969</li>
+                <li><b>Apollo 12</b> - November 19, 1969</li>
+                <li><b>Apollo 14</b> - February 5, 1971</li>
+                <li><b>Apollo 15</b> - July 30, 1971</li>
+                <li><b>Apollo 16</b> - April 21, 1972</li>
+                <li><b>Apollo 17</b> - December 11, 1972</li>
+            </ul>
+            <p>NASA's Artemis III mission is currently scheduled for September 2026. This will be
+                the first crewed landing on the Moon since Apollo 17 in 1972. </p>
+            <note id="note_cn4_shc_mcc">
+                <p>This content was sourced from GenAI.</p>
+            </note>
+        </section>
+    </refbody>
+</reference>

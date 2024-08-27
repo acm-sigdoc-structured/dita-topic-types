@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_g1d_msv_lcc">
+    <title>Methods to locate water on the moon</title>
+    <shortdesc>Scientists use a variety of methods to detect water on the Moon.</shortdesc>
+    <refbody>
+        <section id="section_r1f_kmv_lcc">
+            <p>Here are the most popular methods. </p>
+            <p>This content was sourced from GenAI and <xref
+                    href="https://science.nasa.gov/moon/moon-water-and-ices/" format="html"
+                    scope="external">Water &amp; Ices on the Moon</xref>.</p>
+            <table frame="all" rowsep="1" colsep="1" id="table_jhx_rcw_lcc">
+                <title>Warter detection methods</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="2.85*"/>
+                    <thead>
+                        <row>
+                            <entry>Method</entry>
+                            <entry>Options</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p>Remote Sensing</p>
+                            </entry>
+                            <entry>
+                                <p><i>Neutron Spectrometers</i>: These instruments measure the
+                                    amount of hydrogen (a component of water) on the Moon's surface. </p>
+                                <p><i>Infrared Spectroscopy</i>: By analyzing the infrared light
+                                    reflected from the Moon, scientists can identify the presence of
+                                    water molecules. </p>
+                                <p><i>Radar</i>: This technology can penetrate the lunar surface to
+                                    detect subsurface water ice, particularly in the cold, shadowed
+                                    regions of the poles. </p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>In-Situ Exploration</p>
+                            </entry>
+                            <entry>
+                                <p><i>Landers and Rovers</i>: These spacecraft can directly analyze
+                                    the lunar soil and rocks for the presence of water.</p>
+                                <p><i>Drilling</i>: By drilling into the lunar surface, scientists
+                                    can access deeper layers where water ice may be trapped.</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <note id="note_f3m_tmv_lcc">
+                <p>This content was sourced from GenAI and <xref
+                        href="https://science.nasa.gov/moon/moon-water-and-ices/" format="html"
+                        scope="external">Water &amp; Ices on the Moon</xref>.</p>
+            </note>
+        </section>
+    </refbody>
+</reference>

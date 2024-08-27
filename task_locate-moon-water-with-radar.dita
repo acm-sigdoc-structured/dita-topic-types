@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dcd_ymr_lcc">
+    <title>How do we locate moon water using radar?</title>
+    <shortdesc>Ground-penetrating radar (GPR) is a powerful tool for detecting water on the
+        Moon.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_p4g_1dw_lcc"><i>Pre-requisite</i>: You need to send and receive radar
+            radio waves from an orbiting spacecraft. </prereq>
+        <context>
+            <p><i>Context</i>: GPR works by sending radio waves into the lunar surface and analyzing
+                the reflected signals. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>The spacecraft transmitter sends radio radar waves to the lunar surface. </cmd>
+                <info>These waves penetrate the surface to varying depths, depending on the material
+                    they encounter. </info>
+            </step>
+            <step>
+                <cmd>The spacecraft receiver monitors the radar reflections.</cmd>
+                <info>When they hit a boundary between different materials, such as ice and
+                    regolith, some of the energy is reflected back to the radar. The characteristics
+                    of these signals, such as their strength and timing, provide clues about the
+                    subsurface materials.</info>
+            </step>
+            <step>
+                <cmd>The analysis systems on the spacecraft identify the significant reflections and
+                    build a map of possible water locations. </cmd>
+                <info>
+                    <p>Significant reflection features include:</p>
+                    <ul id="ul_i11_h2w_lcc">
+                        <li>Water ice has a high dielectric constant, meaning it reflects radar
+                            signals strongly. </li>
+                        <li>The depth at which the signal is reflected can indicate the depth of the
+                            ice layer. </li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>The analysis systems on the spacecraft transmit the raw data and the working
+                    map back to Earth. </cmd>
+            </step>
+        </steps>
+        <result id="result_c4z_m2w_lcc">
+            <p>While radar is a valuable tool, it's often used in conjunction with other
+                instruments, such as neutron spectrometers and infrared spectrometers, to confirm
+                the presence of water.</p>
+        </result>
+        <example id="example_sh4_q2w_lcc">
+            <p>This content was sourced from GenAI and <xref
+                    href="https://science.nasa.gov/moon/moon-water-and-ices/" format="html"
+                    scope="external">Water &amp; Ices on the Moon</xref>.</p>
+        </example>
+    </taskbody>
+</task>

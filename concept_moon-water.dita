@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ojr_dnr_lcc">
+    <title>Moon water</title>
+    <shortdesc>NASA researchers have confirmed that water exists both in the sunlit and shadowed
+        surfaces of the Moon.</shortdesc>
+    <conbody>
+        <p>Lunar scientists continue to investigate the origins of water and its behavior. There is
+            evidence that the water on the Moon comes from ancient and current comet impacts, icy
+            micrometeorites colliding on the lunar surface, and lunar dust interactions with the
+            solar wind. However, more research is needed to understand the full history, present,
+            and future of water on the Moon. </p>
+        <note id="note_jb4_rsv_lcc">
+            <p>This content was sourced from GenAI and <xref
+                    href="https://science.nasa.gov/moon/moon-water-and-ices/" format="html"
+                    scope="external">Water &amp; Ices on the Moon</xref>.</p>
+        </note>
+    </conbody>
+</concept>

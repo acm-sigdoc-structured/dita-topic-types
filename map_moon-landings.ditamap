@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Moon landings</title>
+    <topicref href="concept_introduction.dita"/>
+    <topicref href="concept_unmanned-moon-landings.dita">
+        <topicref href="reference_unmanned-moon-landings.dita"/>
+    </topicref>
+    <topicref href="concept_manned-moon-landings.dita">
+        <topicref href="reference_manned-moon-landings.dita"/>
+    </topicref>
+    <topicref href="concept_moon-water.dita">
+        <topicref href="reference_locate-moon-water-methods.dita"/>
+        <topicref href="task_locate-moon-water-with-radar.dita"/>
+    </topicref>
+    <topicref href="reference_moon-landing-conspiracies.dita"/>
+</map>

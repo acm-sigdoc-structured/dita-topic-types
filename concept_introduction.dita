@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_apt_5lr_lcc">
+    <title>Moon landings </title>
+    <shortdesc>A moon landing refers to the event when a spacecraft successfully lands on the
+        surface of the Moon.</shortdesc>
+    <prolog>
+        <author>Commander Joan Gilroy</author>
+        <resourceid appid="NASA-311" appname="NASA-App"/>
+
+    </prolog>
+    <conbody>
+        <p>The most famous moon landing occurred on July 20, 1969, when NASA's Apollo 11 mission,
+            commanded by Neil Armstrong, successfully landed on the Moon. Armstrong and astronaut
+            Buzz Aldrin became the first humans to walk on the lunar surface, while Michael Collins
+            remained in orbit around the Moon in the command module.</p>
+        <p>This article explores the most prominent landings (manned and unmanned) and one of the
+            most important motivations for landings – the quest for water. </p>
+        <note id="note_cn4_shc_mcc">
+            <p>This content was sourced from GenAI.</p>
+        </note>
+    </conbody>
+</concept>

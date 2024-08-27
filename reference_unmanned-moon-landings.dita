@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_zlv_2mr_lcc">
+    <title>List of unmanned moon landings</title>
+    <shortdesc>Since the last manned moon landing in 1972, countries have used unmanned space craft
+        to explore landing sites for future manned landings and to search for natural resources. </shortdesc>
+    <refbody>
+        <section id="section_m2g_d4r_lcc">
+            <p>Notable unmanned missions include:</p>
+            <ul id="ul_eq2_f4r_lcc">
+                <li>
+                    <p><b>Luna Program (Soviet Union)</b>: The Luna series included several
+                        missions, with Luna 2 being the first spacecraft to reach the Moon in 1959,
+                        and Luna 9 achieving the first soft landing in 1966.</p>
+                </li>
+                <li>
+                    <p><b>Surveyor Program (USA)</b>: The Surveyor missions, conducted by NASA from
+                        1966 to 1968, included seven missions that successfully soft-landed on the
+                        Moon, providing valuable data for the Apollo program.</p>
+                </li>
+                <li>
+                    <p><b>Chandrayaan-1 (India)</b>: Launched in 2008, this mission was India's
+                        first lunar probe and successfully orbited the Moon, conducting a variety of
+                        scientific observations.</p>
+                </li>
+                <li>
+                    <p><b>Chang'e Program (China)</b>: China's Chang'e program includes several
+                        missions, with Chang'e 3 (2013) achieving a soft landing and deploying a
+                        rover, and Chang'e 4 (2019) being the first to land on the far side of the
+                        Moon.</p>
+                </li>
+                <li>
+                    <p><b>Recent Missions</b>: Other recent missions include the Lunar
+                        Reconnaissance Orbiter (2009), which has been mapping the Moon from orbit,
+                        and others by various countries.</p>
+                </li>
+            </ul>
+            <note id="note_ymx_vhc_mcc">
+                <p>This content was sourced from GenAI.</p>
+            </note>
+        </section>
+    </refbody>
+</reference>
